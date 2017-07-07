@@ -1,4 +1,3 @@
->
 # SYSTEM Monitor
 <body>
   <tr>
@@ -18,7 +17,7 @@
     <td width="100px" class="main2"><b>Versão:</b></td><td width="780px">0.1</td>
   </tr>
   <tr>
-    <td width="100px" class="main2"><b>Info:</b></td><td width="780px"><b>sysmon</b> é uma ferramenta em bash sctipt, que mostrarar algumas informações do sistema.</td>
+    <td width="100px" class="main2"><b>Info:</b></td><td width="780px"><b>sysmon</b> é uma ferramenta em bash script, que mostrarar algumas informações do sistema.</td>
   </tr>  
   <tr>
     <td class="main"> <br>wget https://raw.githubusercontent.com/Xdwnff-04x/monitor/master/.sysmon.sh<br/> <br>chmod +x .config.py<br/> <br>bash .sysmon.sh</td>
