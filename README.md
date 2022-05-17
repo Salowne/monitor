@@ -19,7 +19,7 @@
     <td width="100px" class="main2"><b>Info:</b><br> Sysmon é uma ferramenta em bash script, que mostra algumas informações do sistema. <br/></td>
   </tr>  
   <tr>
-    <td class="main"> <br>wget https://raw.githubusercontent.com/Xdwnff-04x/monitor/master/.sysmon.sh<br/><br>bash .sysmon.sh</td>
+    <td class="main"> <br>wget https://raw.githubusercontent.com/GMagNLL/monitor/master/.sysmon.sh<br/><br>bash .sysmon.sh</td>
   </tr>
 </body>
 </html>
